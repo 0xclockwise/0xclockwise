@@ -7,6 +7,9 @@ import sys
 sys.argv
 ```
 **this should be bold**
+
 *this should be italic*
+
 ~~strikeing through text yay~~
-I am 
+
+
